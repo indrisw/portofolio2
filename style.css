@@ -1,31 +1,34 @@
 /*--navbar--*/
 #home .navbar {
-  background-color: #e67e22;
+  background-color: #5D3FD3;
 }
 /* --jumbotron-- */
 .jumbotron {
   padding-top: 6rem;
-  background-color: #f0b27a;
+  background-color: #CBC3E3;
 }
 
 /* --projects-- */
 #projects {
-  background-color: #f0b27a;
+  background-color: #5D3FD3;
 }
 #projects .btn {
-  background-color: #e67e22;
+  background-color: #CBC3E3;
 }
 
 #projects .btn:hover {
-  background-color: #f0b27a;
+  background-color: #5D3FD3;
   color: #fff;
 }
 
 /*--contact---*/
-
+#contact .btn{
+   background-color: #CBC3E3;
+   color: #000;
+}
 
 #contact .btn:hover {
-  background-color: #0c2b8c;
+  background-color: #5D3FD3;
   color: #fff;
 }
 
@@ -34,5 +37,5 @@ section {
 }
 
 footer {
-  background-color: #f0b27a;
+  background-color: #5D3FD3;
 }
