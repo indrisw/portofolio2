@@ -1,42 +1,40 @@
 /*--navbar--*/
-#home .navbar{
-	background-color: #E67E22;
+#home .navbar {
+  background-color: #e67e22;
 }
 /* --jumbotron-- */
 .jumbotron {
   padding-top: 6rem;
-  background-color:  #F0B27A;
+  background-color: #f0b27a;
 }
 
 /* --projects-- */
 #projects {
-  background-color: #F0B27A;
+  background-color: #f0b27a;
 }
-#projects .btn{
-	background-color: #E67E22;
+#projects .btn {
+  background-color: #e67e22;
 }
 
-#projects .btn:hover{
-	background-color: #F0B27A;
-	color: #fff;
+#projects .btn:hover {
+  background-color: #f0b27a;
+  color: #fff;
 }
 
 /*--contact---*/
-#contact .btn{
-	background-color: #F0B27A;
+#contact .btn {
+  background-color: #f0b27a;
 }
 
-#contact .btn:hover{
-	background-color: #E67E22;
-	color: #fff;
+#contact .btn:hover {
+  background-color: #0c2b8c;
+  color: #fff;
 }
-
-
 
 section {
   padding-top: 5rem;
 }
 
-footer{
-	background-color: #F0B27A;
+footer {
+  background-color: #f0b27a;
 }
