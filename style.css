@@ -1,0 +1,42 @@
+/*--navbar--*/
+#home .navbar{
+	background-color: #E67E22;
+}
+/* --jumbotron-- */
+.jumbotron {
+  padding-top: 6rem;
+  background-color:  #F0B27A;
+}
+
+/* --projects-- */
+#projects {
+  background-color: #F0B27A;
+}
+#projects .btn{
+	background-color: #E67E22;
+}
+
+#projects .btn:hover{
+	background-color: #F0B27A;
+	color: #fff;
+}
+
+/*--contact---*/
+#contact .btn{
+	background-color: #F0B27A;
+}
+
+#contact .btn:hover{
+	background-color: #E67E22;
+	color: #fff;
+}
+
+
+
+section {
+  padding-top: 5rem;
+}
+
+footer{
+	background-color: #F0B27A;
+}
